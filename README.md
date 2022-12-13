@@ -40,7 +40,7 @@ $ ./main.exe
 
 ## Alterando a estrutura
 - Primeiramente é necessário criar uma estrutura do tipo heap na função main do arquivo `main.c`. Para isso, basta chamar a função `HEAP_create` e passar como parâmetro: o tamanho da heap que será criada e uma função de comparação.
-- Para adicionar elementos no vetor basta chamar a função `HEAP_add` e passar como parâmetro: a estrutura da heap e um ponteiro void para o valor inteiro que será adicionado.
+- Para adicionar elementos na heap basta chamar a função `HEAP_add` e passar como parâmetro: a estrutura da heap e um ponteiro void para o valor inteiro que será adicionado.
 - Para remover elementos na heap basta chamar a função `HEAP_remove` e passar como parâmetro: a estrutura da heap.
 - E para imprimir a heap, basta chamar a função `print` e passar como parâmetro: os elementos da heap e o tamanho da heap.
 
