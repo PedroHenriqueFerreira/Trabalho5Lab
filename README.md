@@ -8,7 +8,7 @@ Este repositório contém o trabalho 5 da disciplina de laborátorio de programa
 Primeiramente é necessário ter o `gcc` e o `git` em sua máquina.
 
 ## Download
-Cole o seguinte comando no terminal para obter o código do projeto.
+Cole o seguinte comando no terminal para obter o código do projeto ou [clique aqui](https://github.com/PedroHenriqueFerreira/Trabalho5Lab/archive/refs/heads/main.zip).
 ```
 $ git clone https://github.com/PedroHenriqueFerreira/Trabalho5Lab.git 
 ```
@@ -26,7 +26,7 @@ $ gcc ./TR5_535770.o ./main.c -o main
 ``` 
 
 ## Execução
-Cole um dos seguintes comandos para rodar o projeto:
+Cole um dos seguintes comandos no terminal para rodar o projeto:
 
 Linux:
 ```
